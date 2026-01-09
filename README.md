@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blagoj</h1>
-<h3 align="center">Software Engineer from Macedonia.</h3>
+<h3 align="center">Student from Macedonia, living in Germany.</h3>
 
 - 🌱 I’m currently learning **Full-Stack Development**
 
