@@ -49,9 +49,9 @@ Check out my work and projects:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blagojramadanov&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blagojramadanov&layout=compact&theme=radical)
 
 </div>
 
@@ -61,9 +61,8 @@ Check out my work and projects:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github)](https://github.com/blagojramadanov)
-[![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blaze.ramadanov@gmail.com)
-)
+[![GitHub](https://img.shields.io/badge/GitHub-blagojramadanov-181717?style=for-the-badge&logo=github)](https://github.com/blagojramadanov)
+[![Email](https://img.shields.io/badge/Email-blaze.ramadanov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blaze.ramadanov@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blagojdev.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.blagojdev.com)
 
 </div>
@@ -82,6 +81,6 @@ Check out my work and projects:
 
 **Feel free to explore my repositories and don't forget to star the ones you like!**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=blagojramadanov.blagojramadanov)
 
 </div>
