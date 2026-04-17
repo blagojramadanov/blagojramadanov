@@ -5,8 +5,8 @@
 ### 💻 Passionate Developer | 🌍 Building cool things on the web
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.blagojdev.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blagojramadanov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blaze.ramadanov@gmail.com)
 
 </div>
 
@@ -61,8 +61,9 @@ Check out my work and projects:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github)](https://github.com/blagojramadanov)
+[![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blaze.ramadanov@gmail.com)
+)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blagojdev.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.blagojdev.com)
 
 </div>
