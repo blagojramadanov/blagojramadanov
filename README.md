@@ -17,7 +17,7 @@
 
 🎓 Currently completing an intensive **Full-Stack Web Development Weiterbildung** at **DevKarriere**, based in **Burglengenfeld, Germany**.
 
-💼 Freelance Web Developer on **Upwork** — building clean, modern and responsive web apps for clients.
+💼 Freelance Web Developer on **Upwork** — building clean, modern and responsive web apps.
 
 🌍 Originally from **Macedonia**, fluent in English, Macedonian, Croatian and German.
 
