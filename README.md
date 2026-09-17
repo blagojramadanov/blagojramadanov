@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-🎓 Currently completing an intensive **Full-Stack Web Development Weiterbildung** at **DevKarriere**, based in **Burglengenfeld, Germany**.
+🎓 Currently completing an intensive **Full-Stack Web Development Weiterbildung** at **DevKarriere**, based in **Pirkensee, Germany**.
 
 🌍 Originally from **Macedonia**, fluent in English, Macedonian, Croatian and German.
 
